@@ -1,3 +1,11 @@
+track annotations
+shortLabel Annotations
+longLabel Annotations BED ago1
+type bigBed
+visibility pack
+bigDataUrl annotations.bb
+html annotations.html
+
 track Galaxy33
 shortLabel ctrl_K27
 longLabel Galaxy track ctrl_k27_1_bx2
