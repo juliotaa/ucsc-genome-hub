@@ -3,3 +3,4 @@ shortLabel ago1 genome
 longLabel ago1 very extended gene region
 genomesFile genomes.txt
 email julie.autaa@radboudumc.nl
+descriptionUrl hub_description.html
