@@ -1,0 +1,5 @@
+genome ago1veryextgeneregion
+trackDb ago1veryextgeneregion/trackDb.txt
+twoBitPath ago1veryextgeneregion/genome.2bit
+organism ago1
+defaultPos chr1:1-1000
