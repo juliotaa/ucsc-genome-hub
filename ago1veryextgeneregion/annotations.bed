@@ -1,0 +1,18 @@
+ago1veryextgeneregion	28492	29074	P5'	0	+
+ago1veryextgeneregion	29074	29085	c	0	+
+ago1veryextgeneregion	29085	32508	lacZ	0	+
+ago1veryextgeneregion	32508	32517	c(1)	0	+
+ago1veryextgeneregion	32517	32749	Hsp70	0	+
+ago1veryextgeneregion	32749	32773	c(2)	0	+
+ago1veryextgeneregion	32773	33595	w+0,8	0	+
+ago1veryextgeneregion	33595	33609	intron1	0	+
+ago1veryextgeneregion	33609	36900	w+3,3	0	+
+ago1veryextgeneregion	36900	36924	c(3)	0	+
+ago1veryextgeneregion	36924	38961	pBR322	0	+
+ago1veryextgeneregion	38961	39182	P3'	0	+
+
+ago1veryextgeneregion	32773	36900	miniwhite	0	+
+ago1veryextgeneregion	28492	39182	PLacW	0	+
+
+ago1veryextgeneregion	39190	43137	Ago1	0	-
+ago1veryextgeneregion	17736	28492	Ago1(1)	0	-
