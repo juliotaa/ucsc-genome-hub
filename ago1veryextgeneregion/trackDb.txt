@@ -22,81 +22,81 @@ visibility full
 bigDataUrl Galaxy35-[kdm3kd_k27_1_bx2].bigwig
 html Galaxy35.html
 
-track piRNA_ctrl_plus
-shortLabel piRNA ctrl +
-longLabel piRNA 23-29 nt control strand + (bx2)
+track Galaxy145
+shortLabel piRNA_ctrl_plus
+longLabel Galaxy track 23_29_ctrl_plus_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy145-[23_29_ctrl_plus_bx2].bigwig
 html Galaxy145.html
 
-track me2_ctrl
-shortLabel H3K9me2 ctrl
-longLabel H3K9me2 control (bx2)
+track Galaxy165
+shortLabel me2_ctrl
+longLabel Galaxy track me2_ctrl_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy165-[me2_ctrl_bx2].bigwig
 html Galaxy165.html
 
-track me3_ctrl
-shortLabel H3K9me3 ctrl
-longLabel H3K9me3 control (bx2)
+track Galaxy164
+shortLabel me3_ctrl
+longLabel Galaxy track me3_ctrl_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy164-[me3_ctrl_bx2].bigwig
 html Galaxy164.html
 
-track me3_kdm3
-shortLabel H3K9me3 KD
-longLabel H3K9me3 KDM3 glKD (bx2)
+track Galaxy163
+shortLabel me3_kdm3
+longLabel Galaxy track me3_kdm3_glkd_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy163-[me3_kdm3_glkd_bx2].bigwig
 html Galaxy163.html
 
-track me2_kdm3
-shortLabel H3K9me2 KD
-longLabel H3K9me2 KDM3 glKD (bx2)
+track Galaxy162
+shortLabel me2_kdm3
+longLabel Galaxy track me2_kdm3_glkd_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy162-[me2_kdm3_glkd_bx2].bigwig
 html Galaxy162.html
 
-track rhi_ctrl
-shortLabel Rhino ctrl
-longLabel Rhino control (bx2)
+track Galaxy161
+shortLabel rhi_ctrl
+longLabel Galaxy track rhi_ctrl_1_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy161-[rhi_ctrl_1_bx2].bigwig
 html Galaxy161.html
 
-track rhi_kd
-shortLabel Rhino KD
-longLabel Rhino knockdown (bx2)
+track Galaxy160
+shortLabel rhi_kd
+longLabel Galaxy track rhi_kd_1_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy160-[rhi_kd_1_bx2].bigwig
 html Galaxy160.html
 
-track piRNA_ctrl_minus
-shortLabel piRNA ctrl -
-longLabel piRNA 23-29 nt control strand - (bx2)
+track Galaxy149
+shortLabel piRNA_ctrl_minus
+longLabel Galaxy track 23_29_ctrl_minus_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy149-[23_29_ctrl_minus_bx2].bigwig
 html Galaxy149.html
 
-track piRNA_kdm3glkd_plus
-shortLabel piRNA KD +
-longLabel piRNA 23-29 nt KDM3 glKD strand + (bx2)
+track Galaxy153
+shortLabel piRNA_kdm3glkd_plus
+longLabel Galaxy track 23_29_kdm3glkd_plus_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy153-[23_29_kdm3glkd_plus_bx2].bigwig
 html Galaxy153.html
 
-track piRNA_kdm3glkd_minus
-shortLabel piRNA KD -
-longLabel piRNA 23-29 nt KDM3 glKD strand - (bx2)
+track Galaxy157
+shortLabel piRNA_kdm3glkd_minus
+longLabel Galaxy track 23_29_kdm3glkd_minus_bx2
 type bigWig
 visibility full
 bigDataUrl Galaxy157-[23_29_kdm3glkd_minus_bx2].bigwig
