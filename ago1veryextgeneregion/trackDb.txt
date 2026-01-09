@@ -1,6 +1,6 @@
 track annotations
 shortLabel Annotations
 longLabel Annotations BED ago1
-type bed 
+type bigBed 
 visibility pack
 bigDataUrl annotations.bb
