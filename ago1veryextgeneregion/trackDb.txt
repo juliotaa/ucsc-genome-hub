@@ -70,38 +70,6 @@ visibility full
 bigDataUrl Galaxy160-[rhi_kd_1_bx2].bigwig
 html Galaxy160.html
 
-track Galaxy198
-shortLabel ctrl_2329
-longLabel Galaxy track 2329_ctrl_bx2
-type bigWig
-visibility full
-bigDataUrl Galaxy198-[2329_ctrl_bx2].bigwig
-html Galaxy198.html
-
-track Galaxy199
-shortLabel kdm3glkd_2329
-longLabel Galaxy track 2329_kdm3glkd_bx2
-type bigWig
-visibility full
-bigDataUrl Galaxy199-[2329_kdm3glkd_bx2].bigwig
-html Galaxy199.html
-
-track Galaxy200
-shortLabel ctrl_21
-longLabel Galaxy track 21_ctrl_bx2
-type bigWig
-visibility full
-bigDataUrl Galaxy200-[21_ctrl_bx2].bigwig
-html Galaxy200.html
-
-track Galaxy201
-shortLabel kdm3glkd_21
-longLabel Galaxy track 21_kdm3glkd_bx2
-type bigWig
-visibility full
-bigDataUrl Galaxy201-[21_kdm3glkd_bx2].bigwig
-html Galaxy201.html
-
 track Galaxy210
 shortLabel ctrl_RNA
 longLabel Galaxy track RNA_control_bx2
@@ -117,4 +85,36 @@ type bigWig
 visibility full
 bigDataUrl Galaxy211-[RNA_kdm3glkd_bx2].bigwig
 html Galaxy211.html
+
+track Galaxy213
+shortLabel ctrl_2329
+longLabel Galaxy track ctrl_2329_rpm_bx2
+type bigWig
+visibility full
+bigDataUrl Galaxy213-[ctrl_2329_rpm_bx2].bigwig
+html Galaxy213.html
+
+track Galaxy214
+shortLabel ctrl_21
+longLabel Galaxy track ctrl_21_rpm_bx2
+type bigWig
+visibility full
+bigDataUrl Galaxy214-[ctrl_21_rpm_bx2].bigwig
+html Galaxy214.html
+
+track Galaxy215
+shortLabel kdm3glkd_2329
+longLabel Galaxy track kdm3glkd_2329_rpm_bx2
+type bigWig
+visibility full
+bigDataUrl Galaxy215-[kdm3glkd_2329_rpm_bx2].bigwig
+html Galaxy215.html
+
+track Galaxy216
+shortLabel kdm3glkd_21
+longLabel Galaxy track kdm3glkd_21_rpm_bx2
+type bigWig
+visibility full
+bigDataUrl Galaxy216-[kdm3glkd_21_rpm_bx2].bigwig
+html Galaxy216.html
 
